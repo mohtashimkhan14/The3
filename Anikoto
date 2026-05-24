@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AnikoTo",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anikoto",
+    "apk": "tachiyomi-en.anikoto-v1.0.0.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "id": 3674624344149706257,
+        "lang": "en",
+        "name": "AnikoTo",
+        "baseUrl": "https://anikototv.to",
+        "versionId": 1
+      }
+    ]
+  }
+]
